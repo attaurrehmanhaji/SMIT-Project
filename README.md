@@ -1,4 +1,4 @@
-# test2
+#SMIT_Project1
 
 A new Flutter project.
 
