@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SMIT Project
+=======
+#SMIT_Project1
+>>>>>>> 392f33c4bc8115de8205dbd42434933aef12ce2e
 
 A new Flutter project.
 
