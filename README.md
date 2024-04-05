@@ -1,4 +1,4 @@
-# test2
+# SMIT Project
 
 A new Flutter project.
 
